@@ -17,6 +17,8 @@
     height: 100vh;
     background-size: cover;                                                               
     ">
+
+    <!-- Menampilkan jumlah rekomendasi yang sudah ditindaklanjuti dan menunggu direspon admin-->
      <div class="row" 
      style=" color:white; 
      font-size:20px;
